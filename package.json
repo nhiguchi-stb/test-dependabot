@@ -1,0 +1,15 @@
+{
+  "name": "sample",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "dependencies": {
+    "axios": "^0.11.1",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "prettier": "^2.0.5"
+  }
+}
